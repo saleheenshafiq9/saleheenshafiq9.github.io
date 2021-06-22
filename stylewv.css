@@ -285,18 +285,18 @@ html{
 .skills .title::after{
     content: "Summary";
 }
-.skills .skills-content {
+.skills .skills-content .column{
     width: calc(50% - 30px);
 }
-.skills .skills-content .text{
+.skills .skills-content .left .text{
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 10px;
 }
-.skills .skills-content p{
+.skills .skills-content .left p{
     text-align: justify;
 }
-.skills .skills-content a{
+.skills .skills-content .left a{
     display: inline-block;
     background: #FE4A49;
     color: #fff;
@@ -308,9 +308,51 @@ html{
     border: 2px solid #FE4A49;
     transition: all 0.3s ease;
 }
-.skills .skills-content a:hover{
+.skills .skills-content .left a:hover{
     color: #FE4A49;
     background: none;
+}
+.skills .skills-content .right .bars{
+    margin-bottom: 15px;
+}
+.skills .skills-content .right .info{
+    display: flex;
+    margin-bottom: 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+.skills .skills-content .right span{
+    font-weight: 500;
+    font-size: 18px;
+}
+.skills .skills-content .right .line{
+    height: 5px;
+    width: 100%;
+    background: lightgrey;
+    position: relative;
+}
+.skills .skills-content .right .line::before{
+    content: "";
+    position: absolute;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: #FE4A49;
+}
+.skills-content .right .html::before{
+    width: 90%;
+}
+.skills-content .right .css::before{
+    width: 80%;
+}
+.skills-content .right .js::before{
+    width: 40%;
+}
+.skills-content .right .php::before{
+    width: 80%;
+}
+.skills-content .right .mysql::before{
+    width: 80%;
 }
 
 @media (max-width: 1104px) {
