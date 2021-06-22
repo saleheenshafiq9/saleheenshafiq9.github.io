@@ -537,9 +537,16 @@ html{
     align-items: center;
     justify-content: center;
     transition: all 0.3s ease;
-    
+}
+.teams .carousel .card .box a{
+    text-decoration: none;
+    color: #111;
 }
 .teams .carousel .card:hover .box{
+    transform: scale(1.05);
+    color: #fff;
+}
+.teams .carousel .card:hover .box a{
     transform: scale(1.05);
     color: #fff;
 }
