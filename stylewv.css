@@ -30,6 +30,47 @@ html{
     margin: auto;
 }
 
+
+.about{
+    font-family: 'Poppins', sans-serif;
+    background-color: #FDFFFC;
+}
+.about .about-content{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.about .title{
+    position: relative;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 500;
+    margin-bottom: 60px;
+    padding-bottom: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+.about .title::before{
+    content: "";
+    position: absolute;
+    bottom: 0px;
+    left: 50%;
+    width: 180px;
+    height: 3px;
+    background: #111;
+    transform: translateX(-50%);
+}
+.about .title::after{
+    position: absolute;
+    bottom: -8px;
+    left: 50%;
+    font-size: 20px;
+    color: #FE4A49;
+    padding: 0 5px;
+    background: #fff;
+    transform: translateX(-50%);
+}
 /* navbar styling */
 .navbar{
     position: fixed;
@@ -131,33 +172,16 @@ html{
 
 .home{
     display: flex;
-    background: url("Images/shafiq-1-removebg-preview.png") no-repeat right;
+   
     background-color: #FDFFFC;
-    height: 100vh;
+    height: 10vh;
     color: #000;
-    min-height: 500px;
+    min-height: 200px;
     font-family: 'Oswald',sans-serif;
 }
 
 .home .max-width{
     margin: auto 0 auto 40px;
-}
-
-.home .home-content .text-2{
-    font-size: 75px;
-    font-weight: 600;
-    margin-left: -3px;
-}
-
-.home .home-content .text-3{
-    padding-top: 30px;
-    font-size: 20px;
-    margin: 5px 0;
-}
-
-.home .home-content .text-3 span{
-    color: #FE4A49;
-    font-weight: 500;
 }
 
 .home .home-content a{
@@ -173,6 +197,50 @@ html{
     transition: all 0.3s ease;
 }
 .home .home-content a:hover{
+    color: #FE4A49;
+    background: none;
+}
+/* about section styling */
+.about .title::after{
+    content: "Shafiq Saleheen";
+}
+.about .about-content .left{
+    width: 45%;
+}
+.about .about-content .left img{
+    height: 400px;
+    width: 400px;
+    object-fit: contain;
+    border-radius: 6px;
+
+}
+.about .about-content .right{
+    width: 55%;
+}
+.about .about-content .right .text{
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.about .about-content .right .text span{
+    color: #FE4A49;
+}
+.about .about-content .right p{
+    text-align: justify;
+}
+.about .about-content .right a{
+    display: inline-block;
+    background: #FE4A49;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 30px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid #FE4A49;
+    transition: all 0.3s ease;
+}
+.about .about-content .right a:hover{
     color: #FE4A49;
     background: none;
 }
