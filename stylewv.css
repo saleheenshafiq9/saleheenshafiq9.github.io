@@ -660,6 +660,10 @@ footer span a:hover{
     .services .serv-content .card{
         width: 100%;
     }
+    #mock1, #mock2{
+        height: 400px;
+        width: 450px;
+    }
 }
 
 @media (max-width: 500px) {
@@ -675,7 +679,10 @@ footer span a:hover{
     .wireframe .wireframe-content .right .text{
         font-size: 19px;
     }
-
+    #mock1, #mock2{
+        height: 330px;
+        width: 350px;
+    }
     .contact .right form .fields{
         flex-direction: column;
     }
