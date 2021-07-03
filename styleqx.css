@@ -668,6 +668,14 @@ footer span a:hover{
     .services .serv-content .card{
         width: 100%;
     }
+    .teams .carousel .card img{
+        height: 280px;
+        width: 490px;
+        object-fit: cover;
+        
+        border: 1px solid #04e762;
+        transition: all 0.3s ease;
+    }
 }
 
 @media (max-width: 500px) {
@@ -683,7 +691,22 @@ footer span a:hover{
     .wireframe .wireframe-content .right .text{
         font-size: 19px;
     }
-
+    #diffsix {
+        height: 360px;
+        width: 300px;
+        object-fit: cover;
+        border: 1px solid #04e762;
+        transition: all 0.3s ease;
+    
+    }
+    .teams .carousel .card img{
+        height: 200px;
+        width: 350px;
+        object-fit: cover;
+        
+        border: 1px solid #04e762;
+        transition: all 0.3s ease;
+    }
     .contact .right form .fields{
         flex-direction: column;
     }
