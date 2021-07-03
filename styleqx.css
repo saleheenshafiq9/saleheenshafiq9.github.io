@@ -676,6 +676,10 @@ footer span a:hover{
         border: 1px solid #04e762;
         transition: all 0.3s ease;
     }
+    #mock1, #mock2{
+        height: 500px;
+        width: 500px;
+    }
 }
 
 @media (max-width: 500px) {
@@ -690,6 +694,10 @@ footer span a:hover{
     .skills .skills-content .left .text,
     .wireframe .wireframe-content .right .text{
         font-size: 19px;
+    }
+    #mock1, #mock2{
+        height: 450px;
+        width: 450px;
     }
     #diffsix {
         height: 360px;
