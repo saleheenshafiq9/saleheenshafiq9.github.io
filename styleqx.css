@@ -677,8 +677,8 @@ footer span a:hover{
         transition: all 0.3s ease;
     }
     #mock1, #mock2{
-        height: 500px;
-        width: 500px;
+        height: 450px;
+        width: 450px;
     }
 }
 
@@ -696,8 +696,8 @@ footer span a:hover{
         font-size: 19px;
     }
     #mock1, #mock2{
-        height: 400px;
-        width: 400px;
+        height: 359px;
+        width: 359px;
     }
     #diffsix {
         height: 360px;
