@@ -866,6 +866,7 @@ footer span a:hover{
         background: #FE4A49;
         text-align: center;
         padding-top: 80px;
+       
         transition: all 0.3s ease;
     }
     .navbar .menu.active{
@@ -875,15 +876,24 @@ footer span a:hover{
         display: block;
     }
     .navbar .menu li a{
-        display: inline-block;
+        display: block;
         margin: 20px 0;
         font-size: 25px;
         color: #fff;
     }
-    .navbar .dropdown-content{
+    .dropdown-content{
         background-color: #FE4A49;
+        position: relative;
     }
-    
+
+    .dropdown-content a {
+        float: none;
+      padding: 4px 6px;
+        text-align: center;
+      }
+      .dropdown-content a:hover {
+        background-color: #FE4A49;
+      }
     .navbar .dropbtn{
         display: none;
     }
