@@ -32,12 +32,13 @@ html{
     margin: auto;
 }
 
-.about, .services, .skills, .teams, .contact, footer{
+.about, .services, .services2, .skills, .teams, .contact, footer{
     font-family: 'Poppins', sans-serif;
     background-color: #FDFFFC;
 }
 .about .about-content,
 .services .serv-content,
+.services2 .serv-content,
 .skills .skills-content,
 .contact .contact-content{
     display: flex;
@@ -97,6 +98,37 @@ html{
     transform: translateX(-50%);
 }
 .services .title::after{
+    position: absolute;
+    bottom: -8px;
+    left: 50%;
+    font-size: 20px;
+    color: #FE4A49;
+    padding: 0 5px;
+    background: #fff;
+    transform: translateX(-50%);
+}
+
+.services2 .title{
+    position: relative;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 500;
+    margin-top: 100px;
+    margin-bottom: 60px;
+    padding-bottom: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+.services2 .title::before{
+    content: "";
+    position: absolute;
+    bottom: 0px;
+    left: 50%;
+    width: 180px;
+    height: 3px;
+    background: #111;
+    transform: translateX(-50%);
+}
+.services2 .title::after{
     position: absolute;
     bottom: -8px;
     left: 50%;
@@ -393,6 +425,53 @@ html{
     background: none;
 }
 
+
+/* services section styling */
+.services, .teams{
+    color:#111;
+    background: #FDFFFC;
+    margin-top: 50px;
+}
+.services .title::before,
+.teams .title::before{
+    background: #111;
+}
+.services2 .title::after{
+    background: #FDFFFC;
+    content: "Institutions";
+}
+.services2 .serv-content .card{
+    width: calc(33% - 20px);
+    text-align: center;
+    border-radius: 6px;
+    padding: 50px 25px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+.services2 .serv-content .card:hover{
+    background: #FE4A49;
+    color: #fff;
+}
+.services2 .serv-content .card .box{
+    transition: all 0.05s ease;
+}
+.services2 .serv-content .card:hover .box{
+    transform: scale(1.25);
+}
+.services2 .serv-content .card i{
+    font-size: 50px;
+    color: #FE4A49;
+    transition: color 0.3s ease;
+}
+.services2 .serv-content .card:hover i{
+    color: #fff;
+}
+.services2 .serv-content .card .text{
+    font-size: 25px;
+    font-weight: 500;
+    margin: 10px 0 7px 0;
+}
+
 /* services section styling */
 .services, .teams{
     color:#111;
@@ -422,10 +501,10 @@ html{
     color: #fff;
 }
 .services .serv-content .card .box{
-    transition: all 0.3s ease;
+    transition: all 0.05s ease;
 }
 .services .serv-content .card:hover .box{
-    transform: scale(1.05);
+    transform: scale(1.25);
 }
 .services .serv-content .card i{
     font-size: 50px;
@@ -509,11 +588,17 @@ html{
 .skills-content .right .js::before{
     width: 40%;
 }
+.skills-content .right .cpp::before{
+    width: 80%;
+}
 .skills-content .right .php::before{
     width: 80%;
 }
 .skills-content .right .mysql::before{
     width: 80%;
+}
+.skills-content .right .r::before{
+    width: 60%;
 }
 
 /* teams section styling */
