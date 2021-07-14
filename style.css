@@ -830,7 +830,14 @@ footer span a:hover{
     text-decoration: underline;
 }
 
-
+#linkedin{
+    color: #FE4A49;
+    text-decoration: none;
+}
+#linkedin:hover{
+    color: #f7d6a6;
+    transition: all 0.3s ease;
+}
 @media (max-width: 1104px) {
     .home .max-width{
         margin-left: 0px;
