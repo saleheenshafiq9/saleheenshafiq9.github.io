@@ -227,6 +227,9 @@ footer{
 
 @media (max-width: 690px) {
     .startsub {
+        font-size: medium;
+    }
+    .starter {
         font-size: large;
     }
 }
