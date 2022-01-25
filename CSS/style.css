@@ -241,4 +241,7 @@ footer{
     .card-body {
         font-size: small;
     }
+    .carousel:hover .carousel-inner .carousel-item .carousel-caption{
+        font-size: small;
+    }
 }
