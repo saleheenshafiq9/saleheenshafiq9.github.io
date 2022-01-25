@@ -235,4 +235,10 @@ footer{
     #fonfix {
         font-size: small;
     }
+    #skillex {
+        font-size: small;
+    }
+    .card-body {
+        font-size: small;
+    }
 }
