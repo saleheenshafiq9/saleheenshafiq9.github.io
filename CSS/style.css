@@ -225,6 +225,15 @@ footer{
     text-align: center;
 }
 
+#mailto {
+    text-decoration: none;
+    color: #494747;
+}
+
+#mailto:hover {
+    color: black;
+}
+
 @media (max-width: 690px) {
     .startsub {
         font-size: medium;
