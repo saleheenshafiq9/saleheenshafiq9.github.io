@@ -9,7 +9,7 @@ $(document).ready(function(){
     });
     
     var typed = new Typed(".typing", {
-        strings: ["Web Development", "UI/UX Design", "Data Analysis", "Software Security"],
+        strings: ["Software Engineering", "Web Development", "Human-Computer Interaction", "UI/UX Design" ],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
