@@ -22,7 +22,7 @@ body {
 }
 
 #alignright {
-    margin-left: 700px;
+    margin-left: 600px;
 }
 
 .nav-item {
@@ -79,7 +79,11 @@ body {
 }
 
 .startsub {
-    color: #A6A2A2;
+    color: #7b7979;
+}
+
+.startsub-span {
+    color: #353333!important;
 }
 
 .spacer {
@@ -96,6 +100,10 @@ body {
 
 .img-fluid {
     border-color: #FCA311;
+}
+
+a:hover, button:hover {
+    color: #FCA311!important;
 }
 
 .introstart {
@@ -251,6 +259,9 @@ footer{
         font-size: small;
     }
     .carousel:hover .carousel-inner .carousel-item .carousel-caption{
+        font-size: small;
+    }
+    h4, h5 {
         font-size: small;
     }
 }
