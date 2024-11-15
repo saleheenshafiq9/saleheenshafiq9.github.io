@@ -21,7 +21,7 @@ repository               : "saleheenshafiq9/saleheenshafiq9.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "shafiq.jpeg"
+  avatar           : "shafiq.jpg"
   name             : "Shafiq-us Saleheen"
   pronouns         : "he/him"  
   bio              : "Software Engineer"
