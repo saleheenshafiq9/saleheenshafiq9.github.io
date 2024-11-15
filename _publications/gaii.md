@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/gaii
 excerpt: 'This study examines the impact of Generative AI tools on Bangladesh's software industry through the lenses of data-colonialism and postcolonial computing, revealing how company maturity, data security concerns, and policy awareness shape AI adoption differently in the Global South compared to the West. It highlights insights from software practitioners on AI tools' effects on key development activities and the evolving job landscape.'
-# date: 2009-10-01
+date: 2009-10-01
 venue: 'The ACM (Association of Computing Machinery) CHI conference on Human Factors in Computing Systems'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
