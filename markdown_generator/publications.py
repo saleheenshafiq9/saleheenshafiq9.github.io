@@ -83,9 +83,9 @@ for row, item in publications.iterrows():
     
     md += "\nvenue: '" + html_escape(item.venue) + "'"
     
-    if len(str(item.paper_url)) > 5:
-        md += "\npaperurl: '" + item.paper_url + "'"
-    
+    if len(str(item.excerpt)) > 5:
+        md += "\nexcerpt: >\n  " + html_escape(item.excerpt.strip().replace("\n", " "))
+
     md += "\ncitation: '" + html_escape(item.citation) + "'"
     
     md += "\n---"
