@@ -6,6 +6,8 @@ collection: portfolio
 
 This is a dynamic website that provides an immersive and educational experience for users to explore various countries and the solar system. With a clickable world map as the centerpiece, users can navigate and discover detailed information about different countries, including basic country info, flags, sports, climate, unions, and oceans. The website also features a chat system for users to engage in discussions and share insights, a quiz system to test their knowledge, and an interactive game for entertainment. Additionally, users can explore the solar system by clicking on celestial bodies to access information and fascinating facts. The platform offers an engaging and interactive way for users to learn about the world and beyond.
 
+<iframe src="https://saleheenshafiq9.github.io/files/ebe-vid.mp4" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 **Clickable World Map:** 
 Users can explore various countries and view detailed information, such as basic country info, flags, sports, climate, unions, and oceans.
 
