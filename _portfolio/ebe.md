@@ -12,7 +12,7 @@ This is a dynamic website that provides an immersive and educational experience 
 **Clickable World Map:** 
 Users can explore various countries and view detailed information, such as basic country info, flags, sports, climate, unions, and oceans.
 
-<div style="display: flex; justify-content: space-between;">
+<!-- <div style="display: flex; justify-content: space-between;">
   <img src="https://saleheenshafiq9.github.io/images/ebe-2.png" alt="Recommendation Interface" style="width: 48%;">
   <img src="https://saleheenshafiq9.github.io/images/ebe-22.png" alt="Clickable Map Interface" style="width: 48%;">
 </div> 
@@ -20,7 +20,7 @@ Users can explore various countries and view detailed information, such as basic
   <img src="https://saleheenshafiq9.github.io/images/ebe-3.png" alt="Recommendation Interface" style="width: 48%;">
   <img src="https://saleheenshafiq9.github.io/images/ebe-33.png" alt="Clickable Map Interface" style="width: 48%;">
 </div>   
-*Figure 1-4: Interfaces showcasing different map features.*
+*Figure 1-4: Interfaces showcasing different map features.* -->
 
 **Chat system:** 
 Users can engage in discussions and share insights about different countries and the solar system.
@@ -34,7 +34,7 @@ Users can test their knowledge about different countries and the solar system wi
 **Interactive game:** 
 Users can play an interactive game to learn about different countries and the solar system in a fun and engaging way.
 
-<div style="display: flex; justify-content: space-between;">
+<!-- <div style="display: flex; justify-content: space-between;">
   <img src="https://saleheenshafiq9.github.io/images/ebe-4.png" alt="Recommendation Interface" style="width: 48%;">
   <img src="https://saleheenshafiq9.github.io/images/ebe-5.png" alt="Clickable Map Interface" style="width: 48%;">
 </div> 
@@ -42,16 +42,16 @@ Users can play an interactive game to learn about different countries and the so
   <img src="https://saleheenshafiq9.github.io/images/ebe-6.png" alt="Recommendation Interface" style="width: 48%;">
   <img src="https://saleheenshafiq9.github.io/images/ebe-8.png" alt="Clickable Map Interface" style="width: 48%;">
 </div>   
-*Figure 6-9: Interfaces showcasing interactive game features.*
+*Figure 6-9: Interfaces showcasing interactive game features.* -->
 
 **Solar system exploration:** 
 Users can click on celestial bodies to access information and fascinating facts.
 
-<div style="display: flex; justify-content: space-between;">
+<!-- <div style="display: flex; justify-content: space-between;">
   <img src="https://saleheenshafiq9.github.io/images/ebe-9.png" alt="Recommendation Interface" style="width: 48%;">
   <img src="https://saleheenshafiq9.github.io/images/ebe-10.png" alt="Clickable Map Interface" style="width: 48%;">
 </div>   
-*Figure 10-11: Space Exploration Interface.*
+*Figure 10-11: Space Exploration Interface.* -->
 
 
 [See the project on GitHub](https://github.com/Labonnya/Earth-and-Beyond-Earth)
