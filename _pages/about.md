@@ -10,12 +10,12 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/home.png){: .align-right width="300px"}
+![Illustration of combining vision and language modalities](/images/home.png){: .align-right width="200px"}
 👨🏻‍💻 I'm a Software Engineer at Samsung R&D Institute Bangladesh.
 
 🔐 My research focuses on security and privacy of emerging technologies, integrating human factors to develop systems that are both reliable and accessible.
 
-📚 I am a prospective PhD student for Fall 2025, focusing on security, privacy, and software engineering, with an emphasis on human factors.
+📚 I am a prospective PhD student for Fall 2025.
 
 🤖 I’m also curious about the evolving landscape of Generative AI, the challenges and risks tied to its adoption, and how it shapes the future of technology.
 
