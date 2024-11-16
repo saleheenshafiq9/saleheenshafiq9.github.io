@@ -28,7 +28,6 @@ Users can click on celestial bodies to access information and fascinating facts.
 
 
 | ![Image 1](https://saleheenshafiq9.github.io/images/ebe-2.png) | ![Image 2](https://saleheenshafiq9.github.io/images/ebe-22.png) |
-|:-------------------------------------------------------------:|:-------------------------------------------------------------:|
 | *Figure 1*                                                    | *Figure 2*                                                    |
 
 | ![Image 3](https://saleheenshafiq9.github.io/images/ebe-3.png) | ![Image 4](https://saleheenshafiq9.github.io/images/ebe-33.png) |
