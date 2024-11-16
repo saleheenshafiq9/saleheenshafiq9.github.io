@@ -11,9 +11,8 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](/images/home.png){: .align-right style="padding-top: 15px; padding-bottom: 15px; width: 150px;"}
-<div style="margin-top: 20px;">
-👨🏻‍💻 I'm a Software Engineer at *Samsung R&D Institute Bangladesh*.
-</div>
+👨🏻‍💻 I'm a Software Engineer at *Samsung R&D Institute Bangladesh*{: style="display: block; margin-top: 20px;"}
+
 
 🎓 I hold a B.Sc. in Software Engineering from *University of Dhaka*, graduating with a CGPA of 3.86/4.00.
 
