@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Boris!"
+title: "👋🏼 Hello there, I'm Shafiq!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,14 +10,14 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
-👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
+![Illustration of combining vision and language modalities](/images/home.png){: .align-right width="300px"}
+👨🏻‍💻 I'm a Software Engineer at Samsung R&D Institute Bangladesh.
 
-🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
+🔐 My research focuses on security and privacy of emerging technologies, integrating human factors to develop systems that are both reliable and accessible.
 
-📚 I'm currently working towards my Master's Thesis in the field of Vision-Language-Modelling.
+📚 I am a prospective PhD student for Fall 2025, focusing on security, privacy, and software engineering, with an emphasis on human factors.
 
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
+🤖 I’m also curious about the evolving landscape of Generative AI, the challenges and risks tied to its adoption, and how it shapes the future of technology.
 
 # Selected Experience
 
