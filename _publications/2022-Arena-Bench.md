@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-Arena-Bench
 excerpt: 'This paper examines the impact of Generative AI tools on Bangladesh's software industry, focusing on their influence on software processes, practitioner perceptions, and job dynamics, while contrasting adoption challenges and opportunities between the Global South and the West.'
 date: 2022-10-01
-venue: 'The ACM CHI conference on Human Factors in Computing Systems'
+venue: 'Robotics and Automation Letters (RA-L)'
 paperurl: 'https://arxiv.org/abs/2206.05728'
 citation: 'L. Kastner et. al. (2022) "Arena-Bench: A Benchmarking Suite for Obstacle Avoidance Approaches in Highly Dynamic Environments" Robotics and Automation Letters.'
 ---
