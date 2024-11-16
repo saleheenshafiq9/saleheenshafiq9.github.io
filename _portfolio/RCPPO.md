@@ -22,6 +22,9 @@ Customize your living space to suit your lifestyle. With SmartThings-compatible 
 **Stay Notified and In Control**
 Get helpful reminders and real-time updates. For instance, SmartThings can notify you when your laundry is finished and suggest a Rinse + Spin cycle to keep your clothes fresh if you're not home yet.
 
+![SmartThings Environment](https://saleheenshafiq9.github.io/images/smart-3.jpg)  
+*Figure 1: SmartThings Environment.*
+
 **Step Into Comfort**
 Ensure your home is at the ideal temperature before you even step inside. SmartThings can automatically turn on the air conditioner so that your space is cool and welcoming upon your arrival.
 
@@ -29,3 +32,5 @@ Ensure your home is at the ideal temperature before you even step inside. SmartT
 Control your entire home from the comfort of your couch. The SmartThings app provides a user-friendly interface to check device statuses, manage settings, and set routines, such as "Good morning" or "Good night," ensuring your home aligns with your schedule.
 
 Take command of your home—anytime, anywhere—with SmartThings, your all-in-one solution for a smarter, simpler lifestyle.
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7254477007353167872?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
