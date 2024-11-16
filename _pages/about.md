@@ -11,13 +11,13 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](/images/home.png){: .align-right width="150px"}
-👨🏻‍💻 I'm a Software Engineer at Samsung R&D Institute Bangladesh.
+👨🏻‍💻 I'm a **Software Engineer** at *Samsung R&D Institute Bangladesh*.
+
+🎓 I hold a B.Sc. in **Software Engineering** from *University of Dhaka*, graduating with a CGPA of **3.86/4.00**.
 
 🔐 My research focuses on software security and privacy, integrating human factors to develop systems that are both reliable and accessible.
 
 🤖 I'm also curious about the evolving landscape of Generative AI, the challenges and risks tied to its adoption, and how it shapes the future of technology.
-
-🎓 I hold a B.Sc. in Software Engineering from the University of Dhaka, graduating with a CGPA of 3.86 out of 4.00.
 
 📚 I'm a prospective PhD student for Fall 2025.
 
