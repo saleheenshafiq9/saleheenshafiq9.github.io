@@ -29,32 +29,30 @@ Users can click on celestial bodies to access information and fascinating facts.
 
 | ![Image 1](https://saleheenshafiq9.github.io/images/ebe-2.png) | ![Image 2](https://saleheenshafiq9.github.io/images/ebe-22.png) |
 |:-------------------------------------------------------------:|:-------------------------------------------------------------:|
-| *Figure 1*                                                    | *Figure 2*                                                    |
+
 
 | ![Image 3](https://saleheenshafiq9.github.io/images/ebe-3.png) | ![Image 4](https://saleheenshafiq9.github.io/images/ebe-33.png) |
-| *Figure 3*                                                    | *Figure 4*                                                    |
+| *Figure 1-4: Interfaces showcasing different map features.*                                                                   |
 
-*Figure 1-4: Interfaces showcasing different map features.*
+
 
 | ![Image 11](https://saleheenshafiq9.github.io/images/ebe-7.png) | |
-| *Figure 11*                                                    | |
+| *Figure 5: Quiz Taking Interface.*                              | |
 
-*Figure 5: Quiz Taking Interface.*
 
 
 | ![Image 5](https://saleheenshafiq9.github.io/images/ebe-4.png) | ![Image 6](https://saleheenshafiq9.github.io/images/ebe-5.png) |
-| *Figure 5*                                                    | *Figure 6*                                                    |
+
 
 | ![Image 7](https://saleheenshafiq9.github.io/images/ebe-6.png) | ![Image 8](https://saleheenshafiq9.github.io/images/ebe-8.png) |
-| *Figure 7*                                                    | *Figure 8*                                                    |
+| *Figure 6-9: Interfaces showcasing interactive game features.*                                                                |
 
-*Figure 6-9: Interfaces showcasing interactive game features.*
 
 
 | ![Image 9](https://saleheenshafiq9.github.io/images/ebe-9.png) | ![Image 10](https://saleheenshafiq9.github.io/images/ebe-10.png) |
-| *Figure 9*                                                    | *Figure 10*                                                     |
+| *Figure 10-11: Space Exploration Interface.*                                                                                  |
 
-*Figure 10-11: Space Exploration Interface.*
+
 
 
 
