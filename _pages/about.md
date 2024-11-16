@@ -10,8 +10,8 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/home.png){: .align-right width="150px"}
-👨🏻‍💻 I'm a Software Engineer at *Samsung R&D Institute Bangladesh*.
+![Illustration of combining vision and language modalities](/images/home.png){: .align-right style="padding-top: 10px; padding-bottom: 10px; width: 150px;"}
+👨🏻‍💻 I'm a Software Engineer at *Samsung R&D Institute Bangladesh*.{: style="padding-top: 10px;"}
 
 🎓 I hold a B.Sc. in Software Engineering from *University of Dhaka*, graduating with a CGPA of 3.86/4.00.
 
@@ -31,7 +31,7 @@ At [Samsung](https://research.samsung.com/srbd), Currently I am working with the
 
 Additionally, I have contributed to **Research and Innovation** by building PoCs for generative AI, UWB/BLE, and AR/VR-related solutions.
 
-## 📜 Research Intern ![William & Mary](/images/william-and-mary.png){: .align-right width="70px"}
+## 📜 Research Intern ![William & Mary](/images/william-and-mary.png){: .align-right width="80px"}
 *(Jun 23 - Dec 23)*
 
 I worked on a remote position with the [Secured Platforms Lab](https://spl-wm.github.io/) at William & Mary, VA under the supervision of [Dr. Adwait Nadkarni](https://www.adwaitnadkarni.com/).
