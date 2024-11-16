@@ -6,7 +6,12 @@ collection: portfolio
 
 **SmartThings: Smarter Life, Simplified**
 
+*#DoTheSmartThings*
+
 Experience a seamlessly connected world with SmartThings, an IoT ecosystem for managing your smart home effortlessly. With over 285 million users worldwide, SmartThings offers a comprehensive platform compatible with Samsung devices and a growing list of others, including those supporting Matter.
+
+![IFA Event 2024](https://saleheenshafiq9.github.io/images/smart-2.jpg)  
+*Figure 1: IFA Event 2024.*
 
 **Connect and Control**
 SmartThings allows you to monitor and manage your smart home with ease. From adjusting the lights and controlling the TV to automating your daily routines, SmartThings ensures a smooth transition from daily chores to relaxation.
