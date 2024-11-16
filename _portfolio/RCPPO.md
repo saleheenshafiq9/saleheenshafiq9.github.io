@@ -1,6 +1,6 @@
 ---
 title: "SmartThings - QR Lounge"
-excerpt: "SmartThings is an IoT ecosystem for Samsung devices used by over 285 million users. As part of the SmartThings team, I developed the full-stack control features for smart devices within a connected environment in the QR Lounge app. <br/><br/>It was showcased at [IFA 2024 in Berlin](https://daily.ifa-berlin.com/daily/press-conference-samsung/), the world's largest consumer and technology show. <br/><br/><img src='/images/smart.jpg' width=20px>"
+excerpt: "SmartThings is an IoT ecosystem for Samsung devices used by over 285 million users. As part of the SmartThings team, I developed the full-stack control features for smart devices within a connected environment in the QR Lounge app. <br/><br/>It was showcased at [IFA 2024 in Berlin](https://daily.ifa-berlin.com/daily/press-conference-samsung/), the world's largest consumer and technology show. <br/><br/><img src='/images/smart.jpg' width=150px>"
 collection: portfolio
 ---
 
