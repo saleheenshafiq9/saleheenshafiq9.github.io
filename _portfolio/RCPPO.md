@@ -1,18 +1,12 @@
 ---
 title: "SmartThings - QR Lounge"
-excerpt: "SmartThings is an IoT ecosystem for Samsung devices used by over 285 million users. As part of the SmartThings team, I developed the full-stack control features for smart devices within a connected environment in the QR Lounge app. <br/><br/>It was showcased at [IFA 2024 in Berlin](https://daily.ifa-berlin.com/daily/press-conference-samsung/), the world's largest consumer and technology show. <br/><br/><img src='/images/smart.jpg' width="200px">"
+excerpt: "SmartThings is an IoT ecosystem for Samsung devices used by over 285 million users. As part of the SmartThings team, I developed the full-stack control features for smart devices within a connected environment in the QR Lounge app. <br/><br/>It was showcased at [IFA 2024 in Berlin](https://daily.ifa-berlin.com/daily/press-conference-samsung/), the world's largest consumer and technology show. <br/><br/><img src='/images/smart.jpg'>"
 collection: portfolio
 ---
-<!-- <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7254477007353167872?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> -->
-
 
 **SmartThings: Smarter Life, Simplified**
-*#DoTheSmartThings*
 
 Experience a seamlessly connected world with SmartThings, an IoT ecosystem for managing your smart home effortlessly. With over 285 million users worldwide, SmartThings offers a comprehensive platform compatible with Samsung devices and a growing list of others, including those supporting Matter.
-
-![IFA Event 2024](https://saleheenshafiq9.github.io/images/smart-2.jpg)  
-*Figure 1: IFA Event 2024.*
 
 **Connect and Control**
 SmartThings allows you to monitor and manage your smart home with ease. From adjusting the lights and controlling the TV to automating your daily routines, SmartThings ensures a smooth transition from daily chores to relaxation.
@@ -22,9 +16,6 @@ Customize your living space to suit your lifestyle. With SmartThings-compatible 
 
 **Stay Notified and In Control**
 Get helpful reminders and real-time updates. For instance, SmartThings can notify you when your laundry is finished and suggest a Rinse + Spin cycle to keep your clothes fresh if you're not home yet.
-
-![SmartThings Environment](https://saleheenshafiq9.github.io/images/smart-3.jpg)  
-*Figure 1: SmartThings Environment.*
 
 **Step Into Comfort**
 Ensure your home is at the ideal temperature before you even step inside. SmartThings can automatically turn on the air conditioner so that your space is cool and welcoming upon your arrival.
