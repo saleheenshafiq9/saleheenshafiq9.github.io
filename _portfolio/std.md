@@ -1,6 +1,6 @@
 ---
 title: "Save The Date : A Party Planning Application"
-excerpt: "Save The Date is a web-based party planning application designed to connect service providers with customers looking to organize events. The application recommends venues, catering, decorations, and other services based on user choice, making it easier for them to plan and manage events. <br/><br/><img src='/images/std-1.jpg' width=400px>"
+excerpt: "Save The Date is a web-based party planning application designed to connect service providers with customers looking to organize events. The application recommends venues, catering, decorations, and other services based on user choice, making it easier for them to plan and manage events. <br/><br/><img src='/images/std-1.png' width=400px>"
 collection: portfolio
 ---
 
@@ -63,6 +63,6 @@ Business Model Development: Establishing a sustainable business model to attract
 Save The Date aims to simplify the process of event planning by integrating multiple services into one platform. This project has not only provided valuable insights into web development but also laid the foundation for a potential commercial product that could ease the burden of organizing events.
 
 
-[Download the report here](https://saleheenshafiq9.github.io/files/bc-paper.pdf)  
+[Download the report here](https://saleheenshafiq9.github.io/files/std-rep.pdf)  
 
 [See the project on GitHub](https://github.com/saleheenshafiq9/SaveTheDate)
