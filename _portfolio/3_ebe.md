@@ -37,22 +37,22 @@ Users can click on celestial bodies to access information and fascinating facts.
 *Figure 1-4: Interfaces showcasing different map features.*
 
 | ![Image 11](https://saleheenshafiq9.github.io/images/ebe-7.png) | |
-| *Figure 11*                                                    | |
+| *Figure 5*                                                    | |
 
 *Figure 5: Quiz Taking Interface.*
 
 
 | ![Image 5](https://saleheenshafiq9.github.io/images/ebe-4.png) | ![Image 6](https://saleheenshafiq9.github.io/images/ebe-5.png) |
-| *Figure 5*                                                    | *Figure 6*                                                    |
+| *Figure 6*                                                    | *Figure 7*                                                    |
 
 | ![Image 7](https://saleheenshafiq9.github.io/images/ebe-6.png) | ![Image 8](https://saleheenshafiq9.github.io/images/ebe-8.png) |
-| *Figure 7*                                                    | *Figure 8*                                                    |
+| *Figure 8*                                                    | *Figure 9*                                                    |
 
 *Figure 6-9: Interfaces showcasing interactive game features.*
 
 
 | ![Image 9](https://saleheenshafiq9.github.io/images/ebe-9.png) | ![Image 10](https://saleheenshafiq9.github.io/images/ebe-10.png) |
-| *Figure 9*                                                    | *Figure 10*                                                     |
+| *Figure 10*                                                    | *Figure 11*                                                     |
 
 *Figure 10-11: Space Exploration Interface.*
 
