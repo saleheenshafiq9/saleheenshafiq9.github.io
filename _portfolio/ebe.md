@@ -1,6 +1,6 @@
 ---
 title: "Earth & Beyond Earth"
-excerpt: "Earth & Beyond Earth is a dynamic educational website offering an interactive experience to explore world countries and the solar system, complete with a clickable map, chat, quizzes, and games for learning and engagement. <br/><br/><img src='/images/ar-2.jpg' width=400px>"
+excerpt: "Earth & Beyond Earth is a dynamic educational website offering an interactive experience to explore world countries and the solar system, complete with a clickable map, chat, quizzes, and games for learning and engagement. <br/><br/><img src='/images/ebe-1.png' width=400px>"
 collection: portfolio
 ---
 
