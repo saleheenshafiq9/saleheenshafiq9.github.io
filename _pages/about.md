@@ -25,24 +25,23 @@ redirect_from:
 ## 👨🏻‍🔬 Software Engineer ![Samsung](/images/samsung.png){: .align-right width="100px"}
 *(Feb 24 - Present)*
 
-Currently I am working in the **SmartThings** team.
+At [Samsung](https://research.samsung.com/srbd), Currently I am working with the **SmartThings** team.
 
 Additionally, I have contributed to **Research and Innovation** by building PoCs for generative AI, UWB/BLE, and AR/VR-related solutions.
 
 ## 📜 Research Intern ![William & Mary](/images/william-and-mary.png){: .align-right width="70px"}
 *(Jun 23 - Dec 23)*
 
-I worked on a remote position in the [Secured Platforms Lab](https://spl-wm.github.io/) at William & Mary, VA under the supervision of [Dr. Adwait Nadkarni](https://www.adwaitnadkarni.com/).
+I worked on a remote position with the [Secured Platforms Lab](https://spl-wm.github.io/) at William & Mary, VA under the supervision of [Dr. Adwait Nadkarni](https://www.adwaitnadkarni.com/).
 
 I developed [IoTWhiz](https://github.com/saleheenshafiq9/IoTWhiz), a tool for analyzing and characterizing IoT and non-IoT Android applications.
 
 ## 👨🏻‍🔬 Software Engineering Intern ![Streams Tech](/images/stl.png){: .align-right width="120px"}
 *(Dec 22 - Jun 22)*
 
-I worked on **GIS projects**, automating data cleaning processes and creating error-checking tools for shapefiles.
+I worked as an intern at a USA-based company called [Streams Tech Ltd.](https://streamstech.com/).
 
-My role also involved testing multiple projects using automated scripts.
-
+My role involved working on **GIS projects**, automating data cleaning processes and creating error-checking tools for shapefiles.
 
 
 
