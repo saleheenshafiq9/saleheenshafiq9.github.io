@@ -1,5 +1,5 @@
 ---
-title: "Where is the Line Between Evolution and Exploitation? Generative AI and the Postcolonial Software Landscape in the Global South"
+title: "Where is the Line Between Evolution"
 collection: publications
 category: manuscripts
 permalink: /publication/iotwhiz
