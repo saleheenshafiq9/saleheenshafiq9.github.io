@@ -5,7 +5,7 @@ permalink: /publication/2023-SCORE
 excerpt: >
   The “Fix Localisation System” (FLoS) is a web application that automates the testing process for detecting localization in a mobile application and provides fixes for the issues. It handles localization for both text and media content (audio, video & image). It has three modules which are registration & login for creating an account, project handling module for creating projects & controlling access to it and finally test & fix localization module.
 date: 2023-01-06
-venue: 'ICSE SCORE 2023'
+venue: 'ICSE SCORE'
 # slidesurl: '/files/bc-deck.pdf'
 paperurl: '/files/flos.pdf'
 # citation: 'L. Kastner et. al. (2022) "Arena-Bench: A Benchmarking Suite for Obstacle Avoidance Approaches in Highly Dynamic Environments" Robotics and Automation Letters.'
