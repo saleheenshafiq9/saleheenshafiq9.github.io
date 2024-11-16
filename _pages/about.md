@@ -10,8 +10,10 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/home.png){: .align-right style="padding-top: 10px; padding-bottom: 10px; width: 150px;"}
-👨🏻‍💻 I'm a Software Engineer at *Samsung R&D Institute Bangladesh*.{: style="padding-top: 10px;"}
+![Illustration of combining vision and language modalities](/images/home.png){: .align-right style="padding-top: 15px; padding-bottom: 15px; width: 150px;"}
+<div style="margin-top: 20px;">
+👨🏻‍💻 I'm a Software Engineer at *Samsung R&D Institute Bangladesh*.
+</div>
 
 🎓 I hold a B.Sc. in Software Engineering from *University of Dhaka*, graduating with a CGPA of 3.86/4.00.
 
