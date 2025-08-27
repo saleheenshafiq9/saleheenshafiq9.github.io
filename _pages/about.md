@@ -12,27 +12,43 @@ redirect_from:
 
 ![Illustration of combining vision and language modalities](/images/home.png){: .align-right style="padding-top: 15px; padding-bottom: 15px; width: 150px;"}
 
-> 🔔 **Incoming PhD Student at Purdue University!**  
-> I’m joining **Purdue University’s** PurSec Lab for **Fall 2025**.  
+> 🔔 **Starting my PhD journey at Purdue University!**  
+> I’m joining **Purdue University’s** [PurSec Lab](https://pursec.cs.purdue.edu/) from the **Fall 2025**.  
 
-👨🏻‍💻 I’m a Software Engineer at *Samsung R&D Institute Bangladesh*.
+👨🏻‍💻 I’m a former Software Engineer at *Samsung R&D Institute Bangladesh*.
 
 🎓 I hold a B.Sc. in Software Engineering from *University of Dhaka*, graduating with a CGPA of 3.86/4.00.
 
 🔐 My research focuses on software security and privacy, integrating human factors to develop systems that are both reliable and accessible.
 
-🤖 I’m also curious about the evolving landscape of Generative AI, the challenges and risks tied to its adoption, and how it shapes the future of technology.
+🤖 I’m also curious about the evolving landscape of Generative AI, the challenges and risks tied to its adoption with systems.
 
 
 
 # Selected Experience
 
-## 👨🏻‍🔬 Software Engineer ![Samsung](/images/samsung.png){: .align-right width="100px"}
-*(Feb 24 - Present)*
 
-At [Samsung](https://research.samsung.com/srbd), Currently I am working with the **SmartThings** team.
+## 👨🏻‍🔬 Graduate Teaching Assistant ![Purdue University](/images/Purdue_Boilermakers_logo.svg){: .align-right width="100px"}
+*(Aug 25 - Present)*
+
+I will be TAing **CS251 (Data Structures & Algorithms)** for the fall 2025 semester.
+
+## 👨🏻‍🔬 Software Engineer ![Samsung](/images/samsung.png){: .align-right width="100px"}
+*(Feb 24 - Jul 25)*
+
+At [Samsung](https://research.samsung.com/srbd), I worked with the **SmartThings** team.
 
 Additionally, I have contributed to **Research and Innovation** by building PoCs for generative AI, UWB/BLE, and AR/VR-related solutions.
+
+## 📜 Research Intern ![Penn State](/images/penn.png){: .align-right width="80px"}
+*(Mar 25 - Aug 25)*
+
+I am working on ensuring privacy with obfuscation with the [GPS Lab](https://tanusreesharma.github.io/gpsresearchlab.html) at Pennsylvania State University, PA under the supervision of [Dr. Tanusree Sharma](https://tanusreesharma.github.io/index.html/).
+
+## 📜 Research Intern ![Arizona State](/images/asu.png){: .align-right width="80px"}
+*(Dec 24 - Present)*
+
+I am working on an ICS log protection project with the [SECPS Lab](https://stamcenter.asu.edu/secps-lab/) at Arizona State University, AZ under the supervision of [Dr. Ozgur Ozmen](https://ozgurozmen.github.io/).
 
 ## 📜 Research Intern ![William & Mary](/images/william-and-mary.png){: .align-right width="80px"}
 *(Jun 23 - Dec 23)*
