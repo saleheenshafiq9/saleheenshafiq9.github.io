@@ -40,15 +40,16 @@ At [Samsung](https://research.samsung.com/srbd), I worked with the **SmartThings
 
 Additionally, I have contributed to **Research and Innovation** by building PoCs for generative AI, UWB/BLE, and AR/VR-related solutions.
 
-## 📜 Research Intern ![Penn State](/images/penn.png){: .align-right width="80px"}
-*(Mar 25 - Aug 25)*
-
-I am working on ensuring privacy with obfuscation with the [GPS Lab](https://tanusreesharma.github.io/gpsresearchlab.html) at Pennsylvania State University, PA under the supervision of [Dr. Tanusree Sharma](https://tanusreesharma.github.io/index.html/).
 
 ## 📜 Research Intern ![Arizona State](/images/asu.png){: .align-right width="80px"}
 *(Dec 24 - Present)*
 
 I am working on an ICS log protection project with the [SECPS Lab](https://stamcenter.asu.edu/secps-lab/) at Arizona State University, AZ under the supervision of [Dr. Ozgur Ozmen](https://ozgurozmen.github.io/).
+
+## 📜 Research Intern ![Penn State](/images/penn.png){: .align-right width="80px"}
+*(Mar 25 - Aug 25)*
+
+I am working on ensuring privacy with obfuscation with the [GPS Lab](https://tanusreesharma.github.io/gpsresearchlab.html) at Pennsylvania State University, PA under the supervision of [Dr. Tanusree Sharma](https://tanusreesharma.github.io/index.html/).
 
 ## 📜 Research Intern ![William & Mary](/images/william-and-mary.png){: .align-right width="80px"}
 *(Jun 23 - Dec 23)*
