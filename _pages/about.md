@@ -10,9 +10,8 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/home.png){: .align-right style="padding-top: 15px; padding-bottom: 15px; width: 150px;"}
-
 > 🔔 **Starting my PhD journey at Purdue University!**  
+
 > I’m a first-year PhD student at **Purdue University’s** [PurSec Lab](https://pursec.cs.purdue.edu/), beginning from **Fall 2025**. My research interests focus on autonomous systems security, software vulnerability discovery, and program analysis, including fuzzing and binary/patch analysis techniques, with an emphasis on building secure and reliable software systems.
 
 👨🏻‍💻 I’m a former Software Engineer at *Samsung R&D Institute Bangladesh*.
