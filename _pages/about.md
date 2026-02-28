@@ -13,7 +13,7 @@ redirect_from:
 ![Illustration of combining vision and language modalities](/images/home.png){: .align-right style="padding-top: 15px; padding-bottom: 15px; width: 150px;"}
 
 > 🔔 **Starting my PhD journey at Purdue University!**  
-> I’m joining **Purdue University’s** [PurSec Lab](https://pursec.cs.purdue.edu/) from the **Fall 2025**.  
+> I’m a first-year PhD student at **Purdue University’s** [PurSec Lab](https://pursec.cs.purdue.edu/), beginning from **Fall 2025**. My research interests focus on autonomous systems security, software vulnerability discovery, and program analysis, including fuzzing and binary/patch analysis techniques, with an emphasis on building secure and reliable software systems.
 
 👨🏻‍💻 I’m a former Software Engineer at *Samsung R&D Institute Bangladesh*.
 
@@ -27,11 +27,19 @@ redirect_from:
 
 # Selected Experience
 
+## 👨🏻‍🔬 Graduate Research Assistant ![Purdue University](/images/Purdue_Boilermakers_logo.svg){: .align-right width="100px"}
+*(Jan 26 - Present)*
+
+I am currently working as a Research Assistant with Dr. Antonio Bianchi.
+
+- Working on fuzzing frameworks, especially for unmanned autonomous vehicles (UAVs)  
+- Investigating different forms of binary and patch analysis techniques  
+- Developing time-sensitive architectures for drone software  
 
 ## 👨🏻‍🔬 Graduate Teaching Assistant ![Purdue University](/images/Purdue_Boilermakers_logo.svg){: .align-right width="100px"}
-*(Aug 25 - Present)*
+*(Aug 25 - Dec 25)*
 
-I will be TAing **CS251 (Data Structures & Algorithms)** for the fall 2025 semester.
+I was a TA for **CS251 (Data Structures & Algorithms)** during the fall 2025 semester.
 
 ## 👨🏻‍🔬 Software Engineer ![Samsung](/images/samsung.png){: .align-right width="100px"}
 *(Feb 24 - Jul 25)*
