@@ -1,3 +1,60 @@
+# Shafiq-us Saleheen — academic website
+
+A custom academic design on the existing Jekyll / GitHub Pages stack. The site uses plain CSS and a small JavaScript file for mobile navigation and archive search. All content remains available without JavaScript.
+
+## Editing the site
+
+| Content | Source |
+| --- | --- |
+| Biography | `_pages/about.md` |
+| Experience and education dates for roles | `_data/experience.yml` |
+| Featured research on the homepage | `_data/featured_research.yml` |
+| Research entries and full reports | `_publications/` and `files/` |
+| Project entries and galleries | `_portfolio/` |
+| News, awards, and talks | `_talks/` |
+| Main portrait | `images/IMG_2684.jpg` |
+| CV document | `files/resume.pdf` |
+| Contact details | `_config.yml` |
+| Navigation | `_data/navigation.yml` |
+| Homepage layout and education summary | `_layouts/home.html` |
+| Shared design and responsive rules | `assets/css/academic.css` |
+| Mobile navigation and search | `assets/js/academic.js` |
+
+Keep each entry's existing permalink when editing it so published links continue to work. New collection entries automatically appear in their archives. The homepage's latest news also updates automatically.
+
+The empty duplicate CV page was consolidated into `_pages/cv.html`. Both `/cv/` and the existing `/resume` redirect remain available. The original `/about/` and `/about.html` redirects are preserved.
+
+## Local development
+
+With Ruby and Bundler installed:
+
+```sh
+bundle install
+bundle exec jekyll serve --config _config.yml,_config.dev.yml
+```
+
+Open http://localhost:4000. GitHub Pages can continue building the repository using its existing Jekyll setup; no new frontend build step is required.
+
+The redesign was validated using the real Jekyll 3.9.3 engine, matching the version in the existing lockfile. Temporary build tools, the browser verification script, and screenshots are under ignored `tmp/`; generated pages are under ignored `_site/`. In the prepared workspace, `python tmp/serve.py` serves that generated preview with support for the existing extensionless URLs.
+
+## Validation and content notes
+
+- All 7 research, 4 project, and 12 news source records were checked against the original Git revision and remain unchanged.
+- All 7 experience entries were moved from the homepage into structured data; their descriptions and links are preserved.
+- 29 pages passed layout checks at 1440, 768, 390, and 320 pixels.
+- 546 internal link and asset references resolved.
+- Mobile navigation, Escape-to-close, search results and empty states, CV downloads, and navigation without JavaScript passed browser checks.
+- External service availability was not audited. The original LinkedIn embed and external resource links are retained.
+- The original Streams Tech internship dates read **December 2022–June 2022**. They are preserved pending author correction.
+- Existing research review status and ongoing internship dates are retained from the source; no acceptance, affiliation, or achievement has been invented.
+
+---
+
+## Original template documentation
+
+The original setup guide is retained below for reference.
+
+
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
 I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.

@@ -1,25 +1,11 @@
-# main links links
 main:
+  - title: "About"
+    url: /
   - title: "Research"
     url: /publications/
-    # url: https://scholar.google.es/citations?user=xxxxxxxx=en
-
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
-
   - title: "News"
-    url: /talks/   
-
+    url: /talks/
   - title: "CV"
-    # url: /cv/
-    url: /files/resume.pdf
-  
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/ 
-
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Guide"
-  #   url: /markdown/
+    url: /cv/

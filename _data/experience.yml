@@ -1,0 +1,49 @@
+- role: Graduate Research Assistant
+  institution: Purdue University
+  dates: Jan 2026 — Present
+  logo: Purdue_Boilermakers_logo.svg
+  description: |
+    I am currently working as a Research Assistant with **Dr. Antonio Bianchi**.
+
+    - Working on fuzzing frameworks, especially for unmanned autonomous vehicles (UAVs)
+    - Investigating different forms of binary and patch analysis techniques
+    - Developing time-sensitive architectures for drone software
+- role: Graduate Teaching Assistant
+  institution: Purdue University
+  dates: Aug 2025 — Dec 2025
+  logo: Purdue_Boilermakers_logo.svg
+  description: |
+    I was a TA for **CS251 (Data Structures & Algorithms)** during the fall 2025 semester.
+- role: Software Engineer
+  institution: Samsung R&D Institute Bangladesh
+  dates: Feb 2024 — Jul 2025
+  logo: samsung.png
+  description: |
+    At [Samsung](https://research.samsung.com/srbd), I worked with the **SmartThings** team. Additionally, I contributed to Research and Innovation by building PoCs for generative AI, UWB/BLE, and AR/VR-related solutions.
+- role: Research Intern
+  institution: Arizona State University
+  dates: Dec 2024 — Jul 2025
+  logo: asu.png
+  description: |
+    I worked on an autonomous drone recovery project with the [SECPS Lab](https://stamcenter.asu.edu/secps-lab/) at Arizona State University, AZ under the supervision of [Dr. Ozgur Ozmen](https://ozgurozmen.github.io/).
+- role: Research Intern
+  institution: Pennsylvania State University
+  dates: Mar 2025 — Aug 2025
+  logo: penn.png
+  description: |
+    I worked on ensuring privacy through obfuscation using LLMs with the [HIVE Lab](https://tanusreesharma.github.io/research/) at Pennsylvania State University, PA under the supervision of [Dr. Tanusree Sharma](https://tanusreesharma.github.io/).
+- role: Research Intern
+  institution: William & Mary
+  dates: Jun 2023 — Dec 2023
+  logo: william-and-mary.png
+  description: |
+    I worked in a remote position with the [Secured Platforms Lab](https://spl-wm.github.io/) at William & Mary, VA under the supervision of [Dr. Adwait Nadkarni](https://www.adwaitnadkarni.com/).
+
+    I developed [IoTWhiz](https://github.com/saleheenshafiq9/IoTWhiz), a tool for analyzing and characterizing IoT and non-IoT Android applications.
+- role: Software Engineering Intern
+  institution: Streams Tech Ltd.
+  # Dates preserved from the original website; the end date needs author confirmation.
+  dates: Dec 2022 — Jun 2022
+  logo: stl.png
+  description: |
+    I worked as an intern at a USA-based company called [Streams Tech Ltd.](https://streamstech.com/). My role involved working on **GIS projects**, automating data cleaning processes and creating error-checking tools for shapefiles.

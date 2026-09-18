@@ -1,0 +1,9 @@
+<svg class="link-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+  {%- case include.name -%}
+  {%- when "forward" -%}<path d="M4 12h16m-7-7 7 7-7 7"/>
+  {%- when "back" -%}<path d="M20 12H4m7-7-7 7 7 7"/>
+  {%- when "external" -%}<path d="M14 3h7v7m0-7L10 14M10 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-5"/>
+  {%- when "download" -%}<path d="M12 3v12m-5-5 5 5 5-5M4 16v5h16v-5"/>
+  {%- when "document" -%}<path d="M14 3H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9l-6-6Zm0 0v6h6M8 13h8m-8 4h8"/>
+  {%- endcase -%}
+</svg>

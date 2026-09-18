@@ -1,14 +1,22 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Selected projects."
+eyebrow: "From idea to implementation"
+intro: "A portfolio of things I have helped build, from connected devices to interactive learning experiences."
 permalink: /portfolio/
-author_profile: true
 ---
-
-{% include base_path %}
-
-
+{% include academic-search.html count=site.portfolio.size label="projects" note="Software, IoT & augmented reality" %}
+<div class="project-grid" data-search-list>
 {% for post in site.portfolio %}
-  {% include archive-single.html %}
+  {% assign project_image = post.excerpt | split: "<img src='" | last | split: "'" | first %}
+  <article class="project-card" data-search-item>
+    {% if post.excerpt contains '<img' %}<a class="project-image" href="{{ post.url | relative_url }}" tabindex="-1" aria-hidden="true"><img src="{{ project_image | relative_url }}" alt="" loading="lazy" width="640" height="400"></a>{% endif %}
+    <div class="project-card-body">
+      <p class="card-meta">Project {{ forloop.index | prepend: '0' }}</p>
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <div class="card-excerpt">{{ post.excerpt | split: '<img' | first | markdownify }}</div>
+      <div class="card-links"><a href="{{ post.url | relative_url }}">Explore project {% include link-icon.html name="forward" %}</a></div>
+    </div>
+  </article>
 {% endfor %}
-
+</div>

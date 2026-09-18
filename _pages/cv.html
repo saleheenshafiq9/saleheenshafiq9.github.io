@@ -1,11 +1,17 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum vitae."
+eyebrow: "Research, education & experience"
+intro: "My academic background, research experience, and work in software engineering."
 permalink: /cv/
-author_profile: true
 redirect_from:
-- /resume
+  - /resume
 ---
-
-<embed src="../files/resume.pdf" type="application/pdf" frameBorder="0" scrolling="auto" height="100%"
-  width="100%"></embed>
+<div class="cv-actions">
+  <a class="button button-primary" href="{% include resume-url.html %}" download>Download CV {% include link-icon.html name="download" %}</a>
+  <a class="button button-outline" href="{% include resume-url.html %}" target="_blank" rel="noopener">Open PDF {% include link-icon.html name="external" %}</a>
+</div>
+<object class="cv-preview" data="{% include resume-url.html %}" type="application/pdf" aria-label="Shafiq-us Saleheen's curriculum vitae">
+  <p>Your browser can display the CV in a separate tab. <a href="{% include resume-url.html %}">Open the CV PDF</a>.</p>
+</object>
+<p class="cv-note">If the preview is unavailable on your device, use “Open PDF” or download a copy above.</p>

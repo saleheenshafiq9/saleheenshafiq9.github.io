@@ -1,0 +1,8 @@
+<div class="collection-toolbar">
+  <p class="collection-count">{{ include.count }} {{ include.label }} · {{ include.note }}</p>
+  <label class="search-field" data-search-control hidden>
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="10" cy="10" r="6.5"/><path d="m15 15 5 5"/></svg>
+    <span class="sr-only">Search {{ include.label }}</span><input type="search" data-content-search placeholder="Search {{ include.label }}…" autocomplete="off">
+  </label>
+</div>
+<p class="search-status" data-search-status role="status" aria-live="polite"></p>
