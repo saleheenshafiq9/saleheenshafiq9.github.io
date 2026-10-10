@@ -37,7 +37,7 @@ layout: default
           {% if entry.venue and entry.venue != '' %}<p class="paper-venue">{% if entry.venue_url %}<a href="{{ entry.venue_url }}">{{ entry.venue | escape }}</a>{% else %}{{ entry.venue | escape }}{% endif %}{% if entry.venue_context %}<br>{{ entry.venue_context | escape }}{% endif %}</p>{% endif %}
           <div class="card-excerpt">{{ entry.excerpt | markdownify }}</div>
           {% if entry.publication_status %}<p class="publication-status">{{ entry.publication_status | escape }}</p>{% endif %}
-          <div class="card-links"><a href="{{ entry.url | relative_url }}">{{ entry.link_label | default: 'Read project' }} {% include link-icon.html name="forward" %}</a>{% if entry.paperurl %}<a href="{{ entry.paperurl | relative_url }}">Report {% include link-icon.html name="document" %}</a>{% endif %}</div>
+          <div class="card-links"><a href="{{ entry.url | relative_url }}">{{ entry.link_label | default: 'Read project' }} {% include link-icon.html name="forward" %}</a>{% if entry.paperurl %}<a href="{% if entry.paperurl contains '://' %}{{ entry.paperurl }}{% else %}{{ entry.paperurl | relative_url }}{% endif %}">{{ entry.paper_label | default: 'Report' }} {% include link-icon.html name="document" %}</a>{% endif %}</div>
         </article>
         {% endif %}
       {% endfor %}

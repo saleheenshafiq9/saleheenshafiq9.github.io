@@ -25,7 +25,7 @@ layout: default
       {% if page.publication_status %}<p class="publication-status">{{ page.publication_status | escape }}</p>{% endif %}
       {% if page.paperurl or page.slidesurl %}
       <div class="card-links">
-        {% if page.paperurl %}<a href="{% if page.paperurl contains '://' %}{{ page.paperurl }}{% else %}{{ page.paperurl | relative_url }}{% endif %}">Read report {% include link-icon.html name="document" %}</a>{% endif %}
+        {% if page.paperurl %}<a href="{% if page.paperurl contains '://' %}{{ page.paperurl }}{% else %}{{ page.paperurl | relative_url }}{% endif %}">{{ page.paper_label | default: 'Read report' }} {% include link-icon.html name="document" %}</a>{% endif %}
         {% if page.slidesurl %}<a href="{% if page.slidesurl contains '://' %}{{ page.slidesurl }}{% else %}{{ page.slidesurl | relative_url }}{% endif %}">{% if page.slidesurl contains 'github.com' %}View code{% else %}View slides{% endif %} {% include link-icon.html name="external" %}</a>{% endif %}
       </div>
       {% endif %}

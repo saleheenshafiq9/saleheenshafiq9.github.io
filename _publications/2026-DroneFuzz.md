@@ -9,7 +9,9 @@ date_precision: year
 venue: "8th Joint Workshop on CPS & IoT Security and Privacy (CPSIoTSec 2026)"
 venue_url: "https://www.sigsac.org/ccs/CCS2026/workshops/workshops.html"
 venue_context: "Co-located with ACM CCS 2026"
-publication_status: "To appear in the ACM Digital Library"
+publication_status: "Available in the ACM Digital Library"
+paperurl: "https://dl.acm.org/doi/10.1145/3847353.3847503"
+paper_label: "ACM Digital Library"
 link_label: "Publication details"
 category_label: "Publication"
 ---
